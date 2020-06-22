@@ -2,6 +2,7 @@
 # program pokazuje ktory to wiek
 
 def century(year):
+    print('Sprawdzam czy dodałą sie zmiana na githubie')
     if year<101:
         return 1
     wiek = year//100
